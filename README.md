@@ -1,4 +1,4 @@
-# Lógica de programação - Beecrowd 🥈
+# Lógica de programação - Beecrowd 🥇
 O objetivo da resolução desses exercícios foi avaliar a minha lógica de programação. 
 - Foram realizados 13 exercícios no total (1003 ao 2242). 
 
